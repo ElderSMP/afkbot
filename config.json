@@ -1,6 +1,6 @@
 {
 	"ip":"pojav_craft.aternos.me",
 	"port": "52074",
-	"name": "kim",
-	"auto-night-skip":"true"
+	"name": "kimbot",
+	"auto-night-skip":"false"
 }
