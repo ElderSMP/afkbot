@@ -1,6 +1,6 @@
 {
-	"ip":"Munschy.aternos.me",
-	"port": "61325",
+	"ip":"hypercraft.psybnc.org",
+	"port": "25565",
 	"name": "afkbot",
 	"auto-night-skip":"false"
 }
